@@ -1,0 +1,1 @@
+Swiss Ephemeris mininmal data files AS-IS from ftp://www.astro.com/pub/swisseph/ephe/
