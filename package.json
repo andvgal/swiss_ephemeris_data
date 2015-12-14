@@ -1,0 +1,19 @@
+{
+  "name": "swiss_ephemeris_data",
+  "version": "1.0.0",
+  "description": "Swiss Ephemeris data files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synastry/swiss_ephemeris_data.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/synastry/swiss_ephemeris_data/issues"
+  },
+  "homepage": "https://github.com/synastry/swiss_ephemeris_data#readme"
+}
